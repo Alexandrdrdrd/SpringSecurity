@@ -12,7 +12,7 @@
 	<artifactId>security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>security</name>
-	<description>Spring security cource</description>
+	<description>Spring security course</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
